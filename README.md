@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Gutiérrez Muñoz (@dagutx)
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development with PHP
+- 🌱 I’m currently learning Vue
 - 📫 You can reach me on Instagram and Twitter @dagut_x
 
 <!---
