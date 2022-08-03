@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel Gutiérrez Muñoz (@dagutx)
+- 👋 Hi, I’m Daniel Gutiérrez Muñoz (@daguttt)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular
 - 📫 You can reach me on Twitter @daguttt
