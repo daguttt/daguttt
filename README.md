@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel Gutiérrez Muñoz (@daguttt).
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning [Firebase](https://firebase.google.com/).
+- 🌱 I’m currently learning [React](https://react.dev/).
 - 📫 You can reach me on Twitter [@daguttt](https://twitter.com/daguttt) or LinkedIn [Daniel Gutiérrez Muñoz](https://linkedin.com/in/daguttt).
